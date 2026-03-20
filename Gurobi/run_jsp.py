@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Startskript für den Job-Shop-Scheduling-Solver.
+Startskript für den JSSP-Gurobi-Solver.
 
 Diese Datei dient zum:
 - Einlesen von Kommandozeilenargumenten
