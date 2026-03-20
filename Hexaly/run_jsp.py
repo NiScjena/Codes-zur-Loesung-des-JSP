@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Ausführungsskript für den JSSP-Hexaly-Solver.
+Ausführungsskript für den JSP-Hexaly-Solver.
 
 Diese Datei dient zum:
 - Einlesen von Kommandozeilenargumenten
