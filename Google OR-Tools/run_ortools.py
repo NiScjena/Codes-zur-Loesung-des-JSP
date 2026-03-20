@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Ausführungsskript für den JSSP-OR-Tools-Solver.
+Ausführungsskript für den JSP-OR-Tools-Solver.
 
 Dieses Modul enthält:
 - die Kommandozeilensteuerung des Programms,
